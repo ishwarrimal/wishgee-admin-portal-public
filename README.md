@@ -45,10 +45,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Please add these values in your .env file
 
-REACT_APP_API_KEY=pikapika
-REACT_APP_AUTH_DOMAIN=pikachu-staging.firebaseapp.com
-REACT_APP_PROJECT_ID=pikachu-staging
-REACT_APP_STORAGE_BUCKET=pikachu-staging.appspot.com
-REACT_APP_MESSAGING_SENDER_ID=123123
-REACT_APP_ID=1:123123:web:12312312312c123
-REACT_APP_MEASUREMENT_ID=G-UNIT50CENT
+REACT_APP_API_KEY=pikapika  
+REACT_APP_AUTH_DOMAIN=pikachu-staging.firebaseapp.com  
+REACT_APP_PROJECT_ID=pikachu-staging  
+REACT_APP_STORAGE_BUCKET=pikachu-staging.appspot.com  
+REACT_APP_MESSAGING_SENDER_ID=123123  
+REACT_APP_ID=1:123123:web:12312312312c123   
+REACT_APP_MEASUREMENT_ID=G-UNIT50CENT  
